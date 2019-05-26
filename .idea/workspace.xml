@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e982ffb1-a8d5-4aea-b264-780b92eae373" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
-    </list>
+    <list default="true" id="e982ffb1-a8d5-4aea-b264-780b92eae373" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,19 +15,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RepeatedCharacters_4.java">
+        <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            <state relative-caret-position="165">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Anagram_8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AllPermutationsOfString_13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MaxMinNumber_25.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InsertionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
+        <entry file="file://$PROJECT_DIR$/src/K_thSmallest_27.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            <state relative-caret-position="105">
+              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -65,6 +101,14 @@
         <option value="$PROJECT_DIR$/src/NonRepeatigChar_9.java" />
         <option value="$PROJECT_DIR$/src/TopTwoNumbers_28.java" />
         <option value="$PROJECT_DIR$/src/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/Anagram_8.java" />
+        <option value="$PROJECT_DIR$/src/AllPermutationsOfString_13.java" />
+        <option value="$PROJECT_DIR$/src/RemoveWhiteSpace_15.java" />
+        <option value="$PROJECT_DIR$/src/ReverseString_18.java" />
+        <option value="$PROJECT_DIR$/src/HighestOccurredCharacter.java" />
+        <option value="$PROJECT_DIR$/src/HighestOccurredCharacter_22.java" />
+        <option value="$PROJECT_DIR$/src/MaxMinNumber_25.java" />
+        <option value="$PROJECT_DIR$/src/K_thSmallest_27.java" />
       </list>
     </option>
   </component>
@@ -114,37 +158,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="NonRepeatigChar_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NonRepeatigChar_9" />
+  <component name="RunManager" selected="Application.K_thSmallest_27">
+    <configuration name="HighestOccurredCharacter_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HighestOccurredCharacter_22" />
       <module name="pdpTasks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotRepeatingElement_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NotRepeatingElement_26" />
+    <configuration name="K_thSmallest_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="K_thSmallest_27" />
       <module name="pdpTasks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+    <configuration name="MaxMinNumber_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxMinNumber_25" />
       <module name="pdpTasks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatedCharacters_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RepeatedCharacters_4" />
+    <configuration name="RemoveWhiteSpace_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveWhiteSpace_15" />
       <module name="pdpTasks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopTwoNumbers_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TopTwoNumbers_28" />
+    <configuration name="ReverseString_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseString_18" />
       <module name="pdpTasks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.TopTwoNumbers_28" />
-        <item itemvalue="Application.NonRepeatigChar_9" />
-        <item itemvalue="Application.NotRepeatingElement_26" />
-        <item itemvalue="Application.RepeatedCharacters_4" />
+        <item itemvalue="Application.K_thSmallest_27" />
+        <item itemvalue="Application.MaxMinNumber_25" />
+        <item itemvalue="Application.HighestOccurredCharacter_22" />
+        <item itemvalue="Application.ReverseString_18" />
+        <item itemvalue="Application.RemoveWhiteSpace_15" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +219,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25099602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -240,20 +285,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -265,13 +296,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -335,6 +359,79 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Anagram_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AllPermutationsOfString_13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RemoveWhiteSpace_15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseString_18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HighestOccurredCharacter_22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxMinNumber_25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/K_thSmallest_27.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
         </state>
       </provider>
     </entry>
