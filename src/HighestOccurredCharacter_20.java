@@ -1,6 +1,5 @@
-//How do you count a number of words in String?
-
-public class HighestOccurredCharacter_22 {
+//How  to return highest occurred character in a String?
+public class HighestOccurredCharacter_20 {
     public static void main(String[] args) {
         String str = "hello world";
         int[] c = new int[256];
