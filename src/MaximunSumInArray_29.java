@@ -4,7 +4,7 @@
 
 public class MaximunSumInArray_29 {
     public static void main(String[] args) {
-        int a[] = { -2, 1, -3, 4, -1, 2, 1, -5, 4 };
+        int a[] = { -2, 1, -3, 4, 1, 2, 1, -5, 1 };
         int size = a.length;
         int sum = Integer.MIN_VALUE,
                 max_end = 0,
